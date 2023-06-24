@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jang%20Yujin&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8B89CC&height=200&section=header&text=Jang%20Yujin&fontSize=90)
 
 ### Hi there 👋 I'm a web developer.
 
