@@ -24,7 +24,7 @@ Languages
 
 ## Projects
 
-2023.02 ~ hisbee 협업 및 소모임 활성화를 위한 웹 플랫폼 개발 <a src="https://hisbee.kr/">클릭</a>
+2023.02 ~ hisbee 협업 및 소모임 활성화를 위한 웹 플랫폼 개발 [웹 페이지 보러 가기](https://hisbee.kr/)
 
 ## Status
 
