@@ -24,6 +24,8 @@ Languages
 
 ## Projects
 
+2023.02 ~ hisbee 협업 및 소모임 활성화를 위한 웹 플랫폼 개발 <a herf = "https://hisbee.kr/">
+
 ## Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin9747&show_icons=true&theme=dracula) 
