@@ -22,6 +22,9 @@ Languages
 
 <img src="https://img.shields.io/badge/22000630@handong.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
 
+안녕하세요. 저는 웹 백엔드 개발자를 꿈꾸고 있는 장유진입니다. Spring Boot, Hibernate(JPA)를 주로 공부하고 있습니다. 
+
+
 ## Projects
 
 2023.02 ~ hisbee (협업 및 소모임 활성화를 위한 웹 서비스 개발 - Hibernate) [웹 페이지 보러 가기](https://hisbee.kr/)
