@@ -5,7 +5,7 @@
 
 Tools & Platforms
 
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/><img src="https://img.shields.io/badge/AmazonEC2-181717?style=flat-square&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/><img src="https://img.shields.io/badge/Amazon EC2-181717?style=flat-square&logo=AmazonEC2&logoColor=white"/>
 
 Languages
 <img src="https://img.shields.io/badge/Github-59666C?style=flat-square&logo=Github&logoColor=white"/>
