@@ -17,7 +17,9 @@ Languages
 
 
 ## About me
-<img href="22000630@handong.ac.kr" src="https://img.shields.io/badge/22000630@handong.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/22000630@handong.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
+
+
 
 <!--
 **yujin9747/yujin9747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
