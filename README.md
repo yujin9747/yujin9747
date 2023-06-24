@@ -24,7 +24,9 @@ Languages
 
 ## Projects
 
-2023.02 ~ hisbee 협업 및 소모임 활성화를 위한 웹 플랫폼 개발 [웹 페이지 보러 가기](https://hisbee.kr/)
+2023.02 ~ hisbee (협업 및 소모임 활성화를 위한 웹 서비스 개발) [웹 페이지 보러 가기](https://hisbee.kr/)
+
+2023.01 ~ 2023.01 붕어빵 사냥꾼 (길거리 음식 정보 웹 서비스 개발) [Notion] (https://www.notion.so/5165dffc7dae482aab909dbd2b64f4a5#cc2870cdc7424c54a80859a1aae8e52c)
 
 ## Status
 
