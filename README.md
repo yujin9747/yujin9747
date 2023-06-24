@@ -24,6 +24,8 @@ Languages
 
 ## Projects
 
+## Status
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin9747&show_icons=true&theme=dracula) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin9747&layout=compact&theme=dracula)
