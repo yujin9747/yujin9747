@@ -24,7 +24,7 @@ Languages
 
 ## Projects
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin9747&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin9747&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin9747&layout=compact&theme=dracula)
 
 <!--
 **yujin9747/yujin9747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
