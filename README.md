@@ -27,6 +27,8 @@ Languages
 
 ## Projects
 
+2023.08 ~ 마일리지 시스템 (한동대학교 전산전자공학부 마일리지 시스템 Spring Boot 기반 서비스로 전환(기존: php) - Hibernate)
+
 2023.02 ~ hisbee (협업 및 소모임 활성화를 위한 웹 서비스 개발 - Hibernate) [웹 페이지 보러 가기](https://hisbee.kr/)
 
 2023.03 ~ 2023.06 Delivery Together (배달음식 함께 주문 서비스 개발 - Flutter)
